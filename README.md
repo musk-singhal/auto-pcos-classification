@@ -15,7 +15,6 @@ Our model has been rigorously tested on a validation dataset to ensure its effec
 |---------------|-----------|--------|----------|---------|
 | **Class 0**         | 0.88      | 0.97   | 0.93     | 460     |
 | **Class 1**         | 0.97      | 0.87   | 0.92     | 459     |
-|               |           |        |          |         |
 | **Accuracy**  |           |        | 0.92     | 919     |
 | **Macro Avg** | 0.93      | 0.92   | 0.92     | 919     |
 | **Weighted Avg** | 0.93  | 0.92   | 0.92     | 919     |
