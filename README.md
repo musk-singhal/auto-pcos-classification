@@ -6,7 +6,8 @@ Polycystic ovary syndrome (PCOS) is a prevalent endocrine and metabolic disorder
 ## Developed Pipeline
 Here, we provide a brief overview of our AI-driven pipeline designed for the automatic classification of healthy and un-healthy frames in ultrasound imaging.
 
-![Pipeline Overview](path/to/pipeline_figure.png)
+![Pipeline Overview](![Copy of Untitled Diagram-Page-1 drawio (1)](https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/604ce74a-fd7c-4979-b1b5-ed141b49c3f1)
+)
 
 ## Achieved Results on Validation Dataset
 Our model has been rigorously tested on a validation dataset to ensure its effectiveness. Below are the evaluation metrics achieved:
