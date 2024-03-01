@@ -20,7 +20,7 @@ Our model has been rigorously tested on a validation dataset to ensure its effec
 | AUC-ROC    | XX%   |
 
 ### Selected Frames from Validation Dataset
-Below are the top 5 frames from the validation dataset, showcasing the model's classification capabilities.
+Below are the top 5 frames from the validation dataset, showcasing the model's classification capabilities. 
 
 <img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/2659585f-9793-4b36-85ce-7f4ef29776bc" width="180">
 <img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/3469866b-7e23-42bc-acce-edfab6c22704" width="180">
@@ -41,6 +41,8 @@ We also provide interpretability plots for a deeper understanding of our model's
 The model's performance was further validated on a testing dataset, with the following frames highlighting its classification accuracy.
 
 ### Selected Frames from Testing Dataset
+Below are the top 5 frames from the testing dataset, showcasing the model's classification capabilities. 
+
 <!-- Adjust the paths and sizes as needed -->
 <img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/16b07680-00a4-4496-baf5-35efa8774247" width="180">
 <img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/1964e488-468c-45de-be04-915940b813fc" width="180">
@@ -49,6 +51,8 @@ The model's performance was further validated on a testing dataset, with the fol
 <img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/f72e25a5-2b52-47af-acc0-157bb23decc9" width="180">
 
 ### Interpretability Plots from Testing Dataset
+We also provide interpretability plots for a deeper understanding of our model's decision-making process.
+
 <!-- Adjust the paths and sizes as needed -->
 <img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/fd387c54-923c-4e68-b191-4878345103bb" width="180">
 <img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/b7e5671a-2bc4-45ef-82b4-18231ce46e2f" width="180">
