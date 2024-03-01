@@ -11,13 +11,15 @@ Here, we provide a brief overview of our developed pipeline. The code presents a
 ## Achieved Results on Validation Dataset
 Our model has been rigorously tested on a validation dataset to ensure its effectiveness. Below are the evaluation metrics achieved:
 
-| Metric     | Value |
-|------------|-------|
-| Accuracy   | XX%   |
-| Precision  | XX%   |
-| Recall     | XX%   |
-| F1-Score   | XX%   |
-| AUC-ROC    | XX%   |
+|               | Precision | Recall | F1-Score | Support |
+|---------------|-----------|--------|----------|---------|
+| **Class 0**         | 0.88      | 0.97   | 0.93     | 460     |
+| **Class 1**         | 0.97      | 0.87   | 0.92     | 459     |
+|               |           |        |          |         |
+| **Accuracy**  |           |        | 0.92     | 919     |
+| **Macro Avg** | 0.93      | 0.92   | 0.92     | 919     |
+| **Weighted Avg** | 0.93  | 0.92   | 0.92     | 919     |
+
 
 ### Selected Frames from Validation Dataset
 Below are the top 5 frames from the validation dataset, showcasing the model's classification capabilities. 
