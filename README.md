@@ -1,71 +1,65 @@
-# auto-pcos-classification
+# Auto-PCOS Classification Challenge
 
 ## Overview
-This repository contains our team's submission for the Auto-PCOS Classification Challenge, focusing on the automatic classification of Poly-cystic Ovary Syndrome (PCOS) in ultrasound imaging. Our approach leverages advanced machine learning algorithms to differentiate between healthy and un-healthy ultrasound frames, aiming to enhance diagnostic accuracy and efficiency.
+Polycystic ovary syndrome (PCOS) is a prevalent endocrine and metabolic disorder affecting millions of women worldwide. The Auto-PCOS classification challenge aims to leverage Artificial Intelligence (AI) to improve the diagnosis of PCOS through ultrasound imaging, addressing the need for modern diagnostic methods.
 
-### Developed Pipeline
-Below is a brief overview of our developed pipeline, from data preprocessing to model evaluation:
+## Developed Pipeline
+Here, we provide a brief overview of our AI-driven pipeline designed for the automatic classification of healthy and un-healthy frames in ultrasound imaging.
 
-![Pipeline Overview](<FIGURE_PLACEHOLDER>)
-
-This figure illustrates the sequential steps our model takes to process and classify ultrasound images, ensuring high fidelity and interpretability in PCOS detection.
+![Pipeline Overview](path/to/pipeline_figure.png)
 
 ## Achieved Results on Validation Dataset
+Our model has been rigorously tested on a validation dataset to ensure its effectiveness. Below are the evaluation metrics achieved:
 
-### Evaluation Metrics
-Our model's performance on the validation dataset is summarized in the table below, showcasing its ability to accurately classify healthy and un-healthy frames:
+| Metric     | Value |
+|------------|-------|
+| Accuracy   | XX%   |
+| Precision  | XX%   |
+| Recall     | XX%   |
+| F1-Score   | XX%   |
+| AUC-ROC    | XX%   |
 
-| Metric           | Value     |
-|------------------|-----------|
-| Accuracy         | XX%       |
-| Precision        | XX%       |
-| Recall           | XX%       |
-| F1-Score         | XX%       |
-| Specificity      | XX%       |
-| AUC-ROC          | XX%       |
+### Selected Frames from Validation Dataset
+Below are the top 5 frames from the validation dataset, showcasing the model's classification capabilities.
 
-### Classification Visuals
-Below are the top 5 frames from the validation dataset, illustrating the model's classification capability:
+![Frame 1](path/to/frame1.png)
+![Frame 2](path/to/frame2.png)
+![Frame 3](path/to/frame3.png)
+![Frame 4](path/to/frame4.png)
+![Frame 5](path/to/frame5.png)
 
-![Best Frame 1](<INSERT_LINK>)
-![Best Frame 2](<INSERT_LINK>)
-![Best Frame 3](<INSERT_LINK>)
-![Best Frame 4](<INSERT_LINK>)
-![Best Frame 5](<INSERT_LINK>)
+### Interpretability Plots from Validation Dataset
+We also provide interpretability plots for a deeper understanding of our model's decision-making process.
 
-### Interpretability Plots
-To further understand our model's decision-making process, we present interpretability plots for the same 5 frames:
-
-![Interpretability Plot 1](<INSERT_LINK>)
-![Interpretability Plot 2](<INSERT_LINK>)
-![Interpretability Plot 3](<INSERT_LINK>)
-![Interpretability Plot 4](<INSERT_LINK>)
-![Interpretability Plot 5](<INSERT_LINK>)
+![Interpretability Plot 1](path/to/plot1.png)
+![Interpretability Plot 2](path/to/plot2.png)
+![Interpretability Plot 3](path/to/plot3.png)
+![Interpretability Plot 4](path/to/plot4.png)
+![Interpretability Plot 5](path/to/plot5.png)
 
 ## Achieved Results on Testing Dataset
+The model's performance was further validated on a testing dataset, with the following frames highlighting its classification accuracy.
 
-### Classification Visuals
-Here are the top 5 frames from the testing dataset, showcasing the model's classification:
+### Selected Frames from Testing Dataset
+![Test Frame 1](path/to/test_frame1.png)
+![Test Frame 2](path/to/test_frame2.png)
+![Test Frame 3](path/to/test_frame3.png)
+![Test Frame 4](path/to/test_frame4.png)
+![Test Frame 5](path/to/test_frame5.png)
 
-![Test Frame 1](<INSERT_LINK>)
-![Test Frame 2](<INSERT_LINK>)
-![Test Frame 3](<INSERT_LINK>)
-![Test Frame 4](<INSERT_LINK>)
-![Test Frame 5](<INSERT_LINK>)
+### Interpretability Plots from Testing Dataset
+To ensure transparency and understanding of our model's functionality, we include interpretability plots for the testing dataset.
 
-### Interpretability Plots
-Interpretability plots for the top 5 frames from the testing dataset are provided to elucidate the model's reasoning:
-
-![Test Interpretability Plot 1](<INSERT_LINK>)
-![Test Interpretability Plot 2](<INSERT_LINK>)
-![Test Interpretability Plot 3](<INSERT_LINK>)
-![Test Interpretability Plot 4](<INSERT_LINK>)
-![Test Interpretability Plot 5](<INSERT_LINK>)
-
-## Challenge Background
-The Auto-PCOS Classification Challenge aims to foster the development of AI models for the automatic classification of PCOS in ultrasound imaging. Polycystic ovary syndrome (PCOS) is a prevalent endocrine disorder affecting millions worldwide, with a significant number undiagnosed. The challenge leverages the PCOSGen dataset, a comprehensive collection of annotated ultrasound images, to encourage the creation of accurate, interpretable, and vendor-agnostic AI solutions.
+![Test Interpretability Plot 1](path/to/test_plot1.png)
+![Test Interpretability Plot 2](path/to/test_plot2.png)
+![Test Interpretability Plot 3](path/to/test_plot3.png)
+![Test Interpretability Plot 4](path/to/test_plot4.png)
+![Test Interpretability Plot 5](path/to/test_plot5.png)
 
 ## Conclusion
-Our submission represents a significant step forward in the automatic classification of PCOS in ultrasound imaging. By combining cutting-edge machine learning techniques with a deep understanding of the clinical context, we aim to contribute to the early and accurate diagnosis of PCOS, ultimately improving patient outcomes.
+This challenge provided an invaluable opportunity to advance the field of medical imaging through AI, specifically in the diagnosis of PCOS. Our results demonstrate the potential of machine learning algorithms in enhancing diagnostic accuracy and efficiency.
 
-For more information on the challenge, visit the [challenge page](<INSERT_CHALLENGE_LINK>).
+## Acknowledgements
+We extend our gratitude to the organizers of the Auto-PCOS classification challenge and all contributors to the PCOSGen dataset. This project would not have been possible without their support and the shared commitment to improving women's health globally.
+
+For more information on the challenge, visit the [challenge page](https://misahub.in/pcos/index.html).
