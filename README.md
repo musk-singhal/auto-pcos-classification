@@ -1,5 +1,7 @@
 # Auto-PCOS Classification Challenge
 
+Link to the dataset: https://drive.google.com/drive/u/0/folders/1uyOYRVsa1aVNbpggwRkoc0sYaXLWCALj
+
 ## Overview
 Polycystic ovary syndrome (PCOS) is a prevalent endocrine and metabolic disorder affecting millions of women worldwide. The Auto-PCOS classification challenge aims to leverage Artificial Intelligence (AI) to improve the diagnosis of PCOS through ultrasound imaging, addressing the need for modern diagnostic methods.
 
