@@ -31,30 +31,30 @@ Below are the top 5 frames from the validation dataset, showcasing the model's c
 ### Interpretability Plots from Validation Dataset
 We also provide interpretability plots for a deeper understanding of our model's decision-making process.
 
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/4dc018e0-fdb5-4035-9a7c-bb8dd31a5c7e" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/900a4039-b313-4ed1-8bec-4a3e043deb4f" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/507c698a-e936-4f77-922c-b4d81090e1da" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/169f44c6-19b4-43b4-ba58-38aa258ab89b" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/758f4d74-7025-46cf-8ada-0fdcec485061" width="200">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/4dc018e0-fdb5-4035-9a7c-bb8dd31a5c7e" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/900a4039-b313-4ed1-8bec-4a3e043deb4f" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/507c698a-e936-4f77-922c-b4d81090e1da" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/169f44c6-19b4-43b4-ba58-38aa258ab89b" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/758f4d74-7025-46cf-8ada-0fdcec485061" width="180">
 
 ## Achieved Results on Testing Dataset
 The model's performance was further validated on a testing dataset, with the following frames highlighting its classification accuracy.
 
 ### Selected Frames from Testing Dataset
 <!-- Adjust the paths and sizes as needed -->
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/16b07680-00a4-4496-baf5-35efa8774247" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/1964e488-468c-45de-be04-915940b813fc" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/32cdc2d5-809e-4f72-9ec4-48c10737c857" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/1c41ead5-9e12-4413-b389-b4c7b9afb038" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/f72e25a5-2b52-47af-acc0-157bb23decc9" width="200">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/16b07680-00a4-4496-baf5-35efa8774247" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/1964e488-468c-45de-be04-915940b813fc" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/32cdc2d5-809e-4f72-9ec4-48c10737c857" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/1c41ead5-9e12-4413-b389-b4c7b9afb038" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/f72e25a5-2b52-47af-acc0-157bb23decc9" width="180">
 
 ### Interpretability Plots from Testing Dataset
 <!-- Adjust the paths and sizes as needed -->
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/fd387c54-923c-4e68-b191-4878345103bb" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/b7e5671a-2bc4-45ef-82b4-18231ce46e2f" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/2213ad18-21d4-4583-8799-0bda219d4d4f" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/fd3f2813-ed76-45dc-a55d-0c0d990a87e4" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/c63f4e82-a9bf-4018-982c-f74f45dbd3d9" width="200">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/fd387c54-923c-4e68-b191-4878345103bb" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/b7e5671a-2bc4-45ef-82b4-18231ce46e2f" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/2213ad18-21d4-4583-8799-0bda219d4d4f" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/fd3f2813-ed76-45dc-a55d-0c0d990a87e4" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/c63f4e82-a9bf-4018-982c-f74f45dbd3d9" width="180">
 
 ## Conclusion
 This challenge provided an invaluable opportunity to advance the field of medical imaging through AI, specifically in the diagnosis of PCOS. Our results demonstrate the potential of machine learning algorithms in enhancing diagnostic accuracy and efficiency.
