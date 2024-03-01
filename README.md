@@ -22,11 +22,11 @@ Our model has been rigorously tested on a validation dataset to ensure its effec
 ### Selected Frames from Validation Dataset
 Below are the top 5 frames from the validation dataset, showcasing the model's classification capabilities.
 
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/2659585f-9793-4b36-85ce-7f4ef29776bc" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/3469866b-7e23-42bc-acce-edfab6c22704" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/d68f9ebd-be29-4046-bb4d-be914dc5c2bd" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/e2b7c258-7a08-49c8-9fe0-d3e8783dd6a2" width="200">
-<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/e9f7d08d-fbbc-4fb4-8941-5bc4699fc71e" width="200">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/2659585f-9793-4b36-85ce-7f4ef29776bc" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/3469866b-7e23-42bc-acce-edfab6c22704" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/d68f9ebd-be29-4046-bb4d-be914dc5c2bd" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/e2b7c258-7a08-49c8-9fe0-d3e8783dd6a2" width="180">
+<img src="https://github.com/musk-singhal/auto-pcos-classification/assets/34962939/e9f7d08d-fbbc-4fb4-8941-5bc4699fc71e" width="180">
 
 ### Interpretability Plots from Validation Dataset
 We also provide interpretability plots for a deeper understanding of our model's decision-making process.
